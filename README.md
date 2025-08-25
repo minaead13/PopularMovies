@@ -2,7 +2,7 @@
 A simple movie app using Clean Architecture + MVVM
 # ✨ Features
 
-- Displays a grid of popular movies (poster + title).
+- Displays a grid of popular movies.
 - Navigates to a detailed screen with:
   - Poster image
   - Movie title
