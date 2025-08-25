@@ -1,0 +1,33 @@
+{
+  "originHash" : "0138ac06c10192233a36f83f20b7d65d5faeb047bde07c066b6cd0e57ecd9850",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+        "version" : "5.10.2"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "ef40458c27ccc65aec62c0cc65da296e07264ffd",
+        "version" : "8.4.0"
+      }
+    },
+    {
+      "identity" : "nvactivityindicatorview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ninjaprox/NVActivityIndicatorView.git",
+      "state" : {
+        "revision" : "121455c4e630fcb95aaefd7e4257b0c2e3cfe6d5",
+        "version" : "5.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
