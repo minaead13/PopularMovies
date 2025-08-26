@@ -7,6 +7,8 @@ A simple movie app using Clean Architecture + MVVM
   - Poster image
   - Movie title
   - Release date
+  - Vote average
+  - Original language
   - Overview
 - Favorite button to toggle state (stored in-memory/UserDefaults).
 - Handles loading and error states gracefully.
